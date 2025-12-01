@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌟 Instella: Modelos de Lenguaje Totalmente Abiertos con Rendimiento Estelar
 
 > **Proyecto del Semillero AtarraIA – Universidad Nacional de Colombia, Sede Medellín**  
@@ -64,3 +65,12 @@ Este repositorio está pensado para **trabajo asincrónico** entre dos o más pe
 1. **Crear una rama** antes de modificar:
    ```bash
    git checkout -b nombre/nueva-seccion
+=======
+# Exposición en el Semillero de Redes Neuronales de la Universidad Nacional de Colombia
+
+Se construirá la exposición sobre el artículo de investigacioń [Instella: Fully Open Language Models with Stellar Performance](https://arxiv.org/abs/2511.10628) publicado el 13 de Noviembre de 2025
+
+---
+
+
+>>>>>>> 4898808f0943fab052e7dce78ac442d6abe133b6
